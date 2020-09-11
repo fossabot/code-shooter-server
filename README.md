@@ -1,4 +1,6 @@
 # hackernews-async-ts
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabnernat%2Fcode-shooter-server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabnernat%2Fcode-shooter-server?ref=badge_shield)
+
 
 [Hacker News](https://news.ycombinator.com/) showcase using typescript && egg
 
@@ -31,3 +33,7 @@ $ npm start
 
 - Node.js 8.x
 - Typescript 2.8+
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabnernat%2Fcode-shooter-server.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabnernat%2Fcode-shooter-server?ref=badge_large)
